@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F1207ABB291D497700CAF497 /* RideType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1207ABA291D497700CAF497 /* RideType.swift */; };
 		F13DFF0F290FB39F004B2DF5 /* LocationSearchActivationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13DFF0E290FB39F004B2DF5 /* LocationSearchActivationView.swift */; };
 		F13DFF11290FB95A004B2DF5 /* MapViewActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13DFF10290FB95A004B2DF5 /* MapViewActionButton.swift */; };
 		F13DFF13290FBC2C004B2DF5 /* LocationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13DFF12290FBC2C004B2DF5 /* LocationSearchView.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F1207ABA291D497700CAF497 /* RideType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RideType.swift; sourceTree = "<group>"; };
 		F13DFF0E290FB39F004B2DF5 /* LocationSearchActivationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchActivationView.swift; sourceTree = "<group>"; };
 		F13DFF10290FB95A004B2DF5 /* MapViewActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewActionButton.swift; sourceTree = "<group>"; };
 		F13DFF12290FBC2C004B2DF5 /* LocationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchView.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				F1551E4A2916B97000A0AB11 /* MapViewState.swift */,
+				F1207ABA291D497700CAF497 /* RideType.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F15C5861291400B10039C7DB /* LocationSearchViewModel.swift in Sources */,
+				F1207ABB291D497700CAF497 /* RideType.swift in Sources */,
 				F13DFF13290FBC2C004B2DF5 /* LocationSearchView.swift in Sources */,
 				F1F0F515290BCAEF00D3AE26 /* LocationManager.swift in Sources */,
 				F1DA8A142917FA4100EBAE2B /* RideRequestView.swift in Sources */,
